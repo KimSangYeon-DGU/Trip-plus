@@ -16,3 +16,9 @@
 2. 제안서 심사 및 합격자 발표(~8/31)
 3. 서비스 개발 및 론칭(9/1 ~ 12/2)
 4. 최종 심사 및 순위 발표(~12/7)
+
+# API
+  -TourAPI
+    - http://api.visitkorea.or.kr/main.do
+  -OpenAPI
+    - https://developers.sktelecom.com/
