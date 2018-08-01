@@ -17,9 +17,13 @@
 3. 서비스 개발 및 론칭(9/1 ~ 12/2)
 4. 최종 심사 및 순위 발표(~12/7)
 
-# API
+# 관련된 링크
   - TourAPI
     - http://api.visitkorea.or.kr/main.do
     
   - OpenAPI
     - https://developers.sktelecom.com/
+    
+  - 개발 Trello
+    - https://trello.com/b/9Bc0btuS/trip-plus
+    
