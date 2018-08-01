@@ -18,8 +18,10 @@
 4. 최종 심사 및 순위 발표(~12/7)
 
 # API
-  -TourAPI
+  - TourAPI
+    
     - http://api.visitkorea.or.kr/main.do
     
-  -OpenAPI
+  - OpenAPI
+    
     - https://developers.sktelecom.com/
