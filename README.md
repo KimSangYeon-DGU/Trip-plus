@@ -29,5 +29,8 @@
     
 # 참고 자료
 ## 서적
-
+<div>
+    <img align="left" img src="Images/Do_it_android_app_programming.jpg", width="219">
+    <img align="left" img src="Images/book_algorithmic_problem_solving_strategies2.png", width="219">
+</div>
     
