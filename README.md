@@ -27,3 +27,7 @@
   - 개발 Trello
     - https://trello.com/b/9Bc0btuS/trip-plus
     
+# 참고 자료
+## 서적
+
+    
