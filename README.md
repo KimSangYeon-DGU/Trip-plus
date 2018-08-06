@@ -15,7 +15,7 @@
   - [트렐로(trello)](https://trello.com/b/9Bc0btuS/trip-plus)를 확인하세요~
   1. 제품 비교
     - 시장에 나온 제품
-      - 웰컴투코리아
+      - ~~웰컴투코리아~~
       - 대한민국 구석구석
       - 스마트투어가이드
       - Visit Korea
