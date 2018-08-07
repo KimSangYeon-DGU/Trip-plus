@@ -38,6 +38,9 @@
     
   - 개발 Trello
     - https://trello.com/b/9Bc0btuS/trip-plus
+  
+  - 2017 공모전 관련 기사
+    - https://news.joins.com/article/22158653
     
 # 참고 자료
 ## 서적
