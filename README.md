@@ -5,9 +5,9 @@
 내, 외국인이 한국 여행을 보다 편리하고 알차게 즐길 수 있도록 쓸모있고 유용한 정보를 제공하는 모바일 어플리케이션 trip+(trip plus) 입니다.
 
 # 비즈니스 모델(Business Model)
-<div>
-  <img align="center" img src="Images/business_model.PNG", width="480">
-</div>
+<p align="center">
+  <img src="Images/business_model.PNG", width="480">
+</p>
 
 # 전체적인 진행과정
 1. <b>요구사항 분석(시장조사-제품별 기능 비교, 수요 조사, 차별화, API 기능 분석)</b>
