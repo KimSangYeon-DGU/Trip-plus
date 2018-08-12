@@ -45,6 +45,7 @@
   - 비즈니스 모델 관련 자료
 
     - http://verticalplatform.kr/archives/1813
+    - http://blog.lgcns.com/1026
     
     
 # 참고 자료
