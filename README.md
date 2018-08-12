@@ -6,7 +6,7 @@
 
 # 비즈니스 모델(Business Model)
 <p align="center">
-  <img src="Images/business_model.PNG", width="480">
+  <img src="Images/business_model.PNG", width="540">
 </p>
 
 # 전체적인 진행과정
